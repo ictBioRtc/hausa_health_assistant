@@ -1,0 +1,12 @@
+unsloth==2025.6.2
+vllm==0.9.1
+transformers==4.51.3
+trl==0.18.1
+accelerate==1.7.0
+datasets==3.6.0
+gradio==5.34.2
+huggingface_hub==0.33.0
+#torch==2.7.0
+#torchaudio==2.7.0
+#torchvision==0.22.0
+#unsloth_zoo==2025.6.1
