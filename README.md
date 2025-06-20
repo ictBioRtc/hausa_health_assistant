@@ -328,7 +328,7 @@ If you use this work in research, please cite:
 ```bibtex
 @software{hausa_health_assistant_2024,
   title={Hausa Health Assistant: Fine-tuning Multilingual AI for Healthcare},
-  author={ICT Bio Research Center},
+  author={ICT BioRTC},
   year={2024},
   url={https://github.com/ictBioRtc/hausa-health-assistant}
 }
