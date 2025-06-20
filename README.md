@@ -24,7 +24,7 @@ This workshop demonstrates how to fine-tune a multilingual AI model to create a 
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/ictBioRtc/hausa-health-assistant.git
+   git clone https://github.com/ictBioRtc/hausa_health_assistant.git
    ```
 
 3. Navigate to project directory:
