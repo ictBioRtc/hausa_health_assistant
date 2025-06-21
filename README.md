@@ -29,7 +29,7 @@ This workshop demonstrates how to fine-tune a multilingual AI model to create a 
 
 3. Navigate to project directory:
    ```bash
-   cd hausa-health-assistant
+   cd hausa_health_assistant
    ```
 
 4. Install dependencies:
